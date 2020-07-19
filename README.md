@@ -5,6 +5,8 @@
 I am an Undergraduate student pursuing B. Tech degree. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
 🤔 Looking for a job which would help me make most of my skills.
 
+&nbsp; &nbsp; *[Check My CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[Verify My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
 <br />
 
 ### Stats
@@ -19,7 +21,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
     <td>  :eight: Golden Badges  </td>
     <td>  :one::zero: Skills Verified </td>
     <td>  :seven: Online Courses  </td>
-    <td>  :two::four: Github Repos </td>
+    <td>  :two::five: Github Repos </td>
   </tr>
 </table>
 
