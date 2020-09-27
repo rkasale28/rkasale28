@@ -13,7 +13,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 <table>
   <tr>
     <td> :three: Internships Completed </td>
-    <td> :six: Projects Completed </td>
+    <td> :seven: Projects Completed </td>
     <td>  :four: Guided Projects  </td>
     <td>  :two: Virtual Internships </td>
   </tr>
