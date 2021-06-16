@@ -9,11 +9,13 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
     <td> :three: Internships Completed </td>
     <td> :eight: Projects Completed </td>
     <td>  :four: Guided Projects  </td>
+    <td> :two: Virtual Internships </td>
   </tr>
   <tr>
     <td>  :eight: Golden Badges  </td>
     <td>  :one::zero: Skills Verified </td>
     <td>  :eight: Online Courses  </td>
+    <td>  :two::nine: Github Repos</td> 
   </tr>
 </table>
 
