@@ -7,13 +7,13 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 <table>
   <tr>
     <td> :three: Internships Completed </td>
-    <td> :seven: Projects Completed </td>
+    <td> :eight: Projects Completed </td>
     <td>  :four: Guided Projects  </td>
   </tr>
   <tr>
     <td>  :eight: Golden Badges  </td>
     <td>  :one::zero: Skills Verified </td>
-    <td>  :seven: Online Courses  </td>
+    <td>  :eight: Online Courses  </td>
   </tr>
 </table>
 
