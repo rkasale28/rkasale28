@@ -13,7 +13,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
   </tr>
   <tr>
     <td>  :eight: Golden Badges  </td>
-    <td>  :one::zero: Skills Verified </td>
+    <td>  :one::two: Skills Verified </td>
     <td>  :eight: Online Courses  </td>
     <td>  :two::nine: Github Repos</td> 
   </tr>
