@@ -16,7 +16,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
     <td>  :eight: Golden Badges  </td>
     <td>  :one::two: Skills Verified </td>
     <td>  :eight: Online Courses  </td>
-    <td>  :two::seven: Github Repos</td> 
+    <td>  :two::eight: Github Repos</td> 
   </tr>
 </table>
 
