@@ -9,7 +9,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
   <tr>
     <td> :three: Internships Completed </td>
     <td> :eight: Projects Completed </td>
-    <td>  :four: Guided Projects  </td>
+    <td>  :five: Guided Projects  </td>
     <td> :two: Virtual Internships </td>
   </tr>
   <tr>
