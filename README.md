@@ -1,8 +1,14 @@
 ### Hi there. I am Rohit. 👋
-#### rohit.kasale@somaiya.edu | rohitkasale28@gmail.com
+#### rohitkasale28@gmail.com
 <img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
-B. Tech Graduate. Currently working in Oracle Financial Software Services. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
+B. Tech Graduate. Currently working in Oracle Financial Software Services. <br /><br />
+<ul>
+  <li>Always willing to learn and implement</li>
+  <li>Proficient in Code Development</li>
+  <li>Able to debug </li>
+  <li>Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science.</li>
+</ul>
 
 ### Stats
 <table>
@@ -34,6 +40,6 @@ B. Tech Graduate. Currently working in Oracle Financial Software Services. Alway
 |  <img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *96645 94525*|
-|✉️ *rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*|
+|✉️ *rohitkasale28@gmail.com*|
  <a href="https://www.linkedin.com/in/rohit-kasale/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/rkasale28"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 |&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1pvgXYnm9uemzaBD5TMpHKxGKj0lKuDSb/view)* &nbsp; &nbsp; \|  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*|
