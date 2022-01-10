@@ -2,7 +2,7 @@
 #### rohit.kasale@somaiya.edu | rohitkasale28@gmail.com
 <img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
-I am an Undergraduate student pursuing B. Tech degree. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
+B. Tech Graduate. Currently working in Oracle Financial Software Services. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
 
 ### Stats
 <table>
