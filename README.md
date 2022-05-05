@@ -22,7 +22,7 @@ B. Tech Graduate. Currently working in Oracle Financial Software Services. <br /
     <td>  :eight: Golden Badges  </td>
     <td>  :two::one: Skills Verified </td>
     <td>  :nine: Online Courses  </td>
-    <td>  :two::nine: Github Repos</td> 
+    <td>  :two::eight: Github Repos</td> 
   </tr>
 </table>
 
